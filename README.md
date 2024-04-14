@@ -1,2 +1,2 @@
 # Event-Management-Website
-This is n basic Event Management and Planning Website
+This is a basic Event Management and Planning Website
